@@ -370,11 +370,11 @@ ticket-booking-queue-simulation/
 
 | | |
 |---|---|
-| **Name** | `<Manasvi Chugh>` |
-| **Roll No.** | `<01918015625>` |
+| **Name** | `Manasvi Chugh` |
+| **Roll No.** | `01918015625` |
 | **Course** | Data Structures Lab — DS LAB G1 [2AIML] |
 | **Instructor** | Akash Bhardwaj |
-| **Institution** | `<Delhi Technical Campus>` |
+| **Institution** | `Delhi Technical Campus` |
 
 Special thanks to the course instructor for guidance on the PBL framework and evaluation criteria.
 
